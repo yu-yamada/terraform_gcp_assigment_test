@@ -1,0 +1,2 @@
+# terraform_gcp_assigment_test
+gcpのreservation assignmentテスト用
